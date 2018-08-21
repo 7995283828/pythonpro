@@ -6,4 +6,3 @@ elif(n<0):
 else:
  print("zero")
  
- 
